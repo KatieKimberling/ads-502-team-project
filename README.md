@@ -51,7 +51,7 @@ Knowing which pumps are likely to fail in advance allows oversight (and funding)
 -   [PumpItUP!](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/)
     -   The dataset was harvested from DrivenData, a company devoted to using machine learning, artificial intelligence, and data science to make the world a better place.
 
-### **Project and Presentation:**
+### **Project Presentation:**
 
 -   [Pump It UP! Presentation](https://www.canva.com/design/DAGjrLdKARc/YMF-D-1SCCfyqKbI-H7FDQ/edit?utm_content=DAGjrLdKARc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
