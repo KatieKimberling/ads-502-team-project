@@ -53,7 +53,7 @@ Knowing which pumps are likely to fail in advance allows oversight (and funding)
 
 ### **Project and Presentation:**
 
--   [Pump It UP! Presentation]([/www.canva.com/design/DAGjrLdKARc/5qSzHOTxeY9KdRwjO-4fHQ/view?utm_content=DAGjrLdKARc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf771f38a92](https://www.canva.com/design/DAGjrLdKARc/YMF-D-1SCCfyqKbI-H7FDQ/edit?utm_content=DAGjrLdKARc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+-   [Pump It UP! Presentation](https://www.canva.com/design/DAGjrLdKARc/YMF-D-1SCCfyqKbI-H7FDQ/edit?utm_content=DAGjrLdKARc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## License
 
